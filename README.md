@@ -7,9 +7,9 @@ sql_and_tableau.sql: The initial SQL database containing the raw data.
 visualisation.twb: A Tableau workbook file for interactive data visualization.
 quiz.docx: A document with the answers to the quiz.
 career_track_info.csv: A CSV file extracted from the SQL database, containing processed data.
+
 ## Additional Resources
 To complement the analysis, a visual explanation video is included. This video provides a detailed walkthrough of the project's objectives, methodology, and key findings.
-
 ### Watch the video Walkthrough
 [![ds](https://github.com/user-attachments/assets/7685efb7-ebf6-4d2e-bce8-08c7822d6ace)](https://drive.google.com/file/d/1zDiITYhQqL_WpFRRQyNr5ZPZdXBQ5mTj/view?usp=sharing)
 
