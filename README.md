@@ -5,5 +5,5 @@ This project analyzes career track enrollments and completions using SQL queries
 Additionally, a visual explanation video is provided to guide you through the project's objectives, methodology, and results.
 
 ## Watch the video Walkthrough
-![ds](https://github.com/user-attachments/assets/7685efb7-ebf6-4d2e-bce8-08c7822d6ace)(https://drive.google.com/file/d/1zDiITYhQqL_WpFRRQyNr5ZPZdXBQ5mTj/view?usp=sharing)
+![ds](https://github.com/user-attachments/assets/7685efb7-ebf6-4d2e-bce8-08c7822d6ace)](https://drive.google.com/file/d/1zDiITYhQqL_WpFRRQyNr5ZPZdXBQ5mTj/view?usp=sharing)
 
