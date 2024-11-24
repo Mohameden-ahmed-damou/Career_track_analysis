@@ -3,7 +3,7 @@
 This project analyzes career track enrollments and completions using SQL queries to extract valuable insights from the provided database. The goal is to explore enrollment trends, completion patterns, and other key metrics that can help improve career track planning and management.
 
 ## Project Files
-sql_and_tableau.sql: The initial SQL database containing the raw data.
+sql_and_tableau.sql: The initial SQL database containing the raw data.<br>
 visualisation.twb: A Tableau workbook file for interactive data visualization.
 quiz.docx: A document with the answers to the quiz.
 career_track_info.csv: A CSV file extracted from the SQL database, containing processed data.
