@@ -4,8 +4,8 @@ This project analyzes career track enrollments and completions using SQL queries
 
 ## Project Files
 sql_and_tableau.sql: The initial SQL database containing the raw data.<br>
-visualisation.twb: A Tableau workbook file for interactive data visualization.
-quiz.docx: A document with the answers to the quiz.
+visualisation.twb: A Tableau workbook file for interactive data visualization.<br>
+quiz.docx: A document with the answers to the quiz.<br>
 career_track_info.csv: A CSV file extracted from the SQL database, containing processed data.
 
 ## Additional Resources
